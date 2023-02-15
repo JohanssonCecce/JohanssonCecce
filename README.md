@@ -1,7 +1,7 @@
 - <h1>👋 Hi, I’m @JohanssonCecce </h1>
 - 👀 I’m interested in creating websites
-- 🌱 I’m currently learning HTML, CSS and JS
-- 💞️ I’m looking to collaborate on projects that can help me learn more as a future front end developer 
+- 🌱 I’m currently learning HTML, CSS, JS, C# ans SQL
+- 💞️ I’m looking to collaborate on projects that can help me learn more as a junior fullstack developer 
 - 📫 Contact me on LinkedIn: https://www.linkedin.com/in/celinne-johansson-rodriguez/
 
 <!---
